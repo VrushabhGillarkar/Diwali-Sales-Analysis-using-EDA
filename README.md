@@ -78,7 +78,7 @@ Run the cells to view data cleaning, visualization, and insights.
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Diwali-Sales-Analysis-using-EDA.git
+git clone https://github.com/VrushabhGillarkar/Diwali-Sales-Analysis-using-EDA.git
 
 
 **📷 Visuals**
